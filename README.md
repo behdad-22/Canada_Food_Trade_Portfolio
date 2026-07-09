@@ -69,4 +69,4 @@ Figures 1 to 4, Table 2, SI Tables S2 to S4, and SI Figures S1 to S7, from the i
 
 ## License and citation
 
-Code released under the MIT License. If you use this repository, please cite the manuscript and the archived version above.
+Code released under the MIT License. If you use this repository, please cite the manuscript and the archived version above. Code is released under the MIT License. Data files are released under CC BY 4.0.
