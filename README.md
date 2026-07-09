@@ -2,9 +2,9 @@
 
 Analysis code and data for the manuscript "Agricultural Trade Portfolio Optimization under Multi-Dimensional Disruption Risks: Enhancing Resilience of Canada's Food System" (Saed, Karakoc, Elshorbagy, Razavi), submitted to *Earth's Future*.
 
-**Repository.** [GitHub URL placeholder]
-**Archived version.** [DOI placeholder]
-**Corresponding author.** Behdad Saed, University of Saskatchewan.
+**Repository:** [https://github.com/behdad-22/Canada_Food_Trade_Portfolio.git]
+**Archived version:** [https://doi.org/10.5281/zenodo.21271391]
+**Corresponding author:** Behdad Saed, University of Saskatchewan.
 
 ## Contents
 
